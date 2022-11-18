@@ -50,7 +50,7 @@ function App() {
       <iframe
         style={{
           width: "100%",
-          height: "100vh",
+          height: "97vh",
         }}
         allow="camera *; microphone *"
         src="https://demo.readyplayer.me/avatar?frameApi&clearCache"
