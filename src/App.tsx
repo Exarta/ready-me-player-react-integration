@@ -46,7 +46,7 @@ function App() {
     }
   };
   return (
-    <div className="App">
+    <div>
       <iframe
         style={{
           width: "100%",
